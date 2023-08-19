@@ -6,6 +6,7 @@
 
 Hello, Resya here! 23 years old girl in +8 GMT (East Borneo) timezone. I am a Tax Collector and software engineer. The 9th assignment are assigned to a simple API server about mbanking app. 
 
+(https://resyanac-week9.up.railway.app/)
 
 # Simple Mobile Banking App API
 
@@ -50,18 +51,18 @@ the Simple Mobile Banking App API allows users to retrieve, create, update, and 
 
 Here are some usage examples of the API:
 
-- To retrieve the all users: (https://week-9-resyanac-production.up.railway.app/user)
+- To retrieve the all users: 
 ![Screen Shot 2023-08-19 at 03 51 46](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/eec930e9-f2d4-4c3c-a270-c4d2415f1d07)
 
 
 
-- To retrieve the total balance of a user: (https://week-9-resyanac-production.up.railway.app/user/1)
+- To retrieve the total balance of a user: 
 ![Screen Shot 2023-08-19 at 03 51 40](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/0ebb2d1b-a8ab-40ec-a3df-473d8d636ad5)
 
 
 
 
-- To retrieve all transactions : (https://week-9-resyanac-production.up.railway.app/user/1)
+- To retrieve all transactions : 
 
 ![Screen Shot 2023-08-19 at 03 51 30](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/a99617d4-97e2-48f8-b263-6f205eb0a72f)
 
@@ -81,7 +82,7 @@ Here are some usage examples of the API:
 
 
 ## Deployment
-i deployed this using railway (https://week-9-resyanac-production.up.railway.app/)
+i deployed this using railway (https://resyanac-week9.up.railway.app/)
 
 
 ## Conclusion
