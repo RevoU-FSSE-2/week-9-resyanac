@@ -1,5 +1,6 @@
 
-![RESYANA CAHYANITA](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/f0e13b54-7cb5-49d6-a425-4cd47b3bccd8)
+![RESYANA CAHYANITA](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/a58304cf-b3d5-42ca-9f00-571331421b70)
+
 
 # INTRODUCTION
 
@@ -50,27 +51,34 @@ the Simple Mobile Banking App API allows users to retrieve, create, update, and 
 Here are some usage examples of the API:
 
 - To retrieve the all users:
-![Screen Shot 2023-08-19 at 03 51 46](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/ced79a5d-9dfa-4a20-9acd-d2389adea34b)
+![Screen Shot 2023-08-19 at 03 51 46](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/eec930e9-f2d4-4c3c-a270-c4d2415f1d07)
+
+
 
 
 - To retrieve the total balance of a user:
-![Screen Shot 2023-08-19 at 03 51 40](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/038beced-c1dd-47dd-a495-f71871db92b8)
+![Screen Shot 2023-08-19 at 03 51 40](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/0ebb2d1b-a8ab-40ec-a3df-473d8d636ad5)
+
 
 
 
 - To retrieve all transactions :
-![Screen Shot 2023-08-19 at 03 51 30](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/fe58f729-7aea-460b-8f90-f0e0236991f4)
+
+![Screen Shot 2023-08-19 at 03 51 30](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/a99617d4-97e2-48f8-b263-6f205eb0a72f)
 
 - To create a new transaction:
-![Screen Shot 2023-08-19 at 03 51 35](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/8b8de431-8ad3-4601-920a-96263084e109)
+![Screen Shot 2023-08-19 at 03 51 35](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/770045fa-22f0-4398-9b46-c398b620f1dc)
+
 
 
 - To update a transaction:
-![Screen Shot 2023-08-19 at 03 51 23](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/fbca97c9-fd77-469d-983e-8cebaaa571ce)
+![Screen Shot 2023-08-19 at 03 51 23](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/7dcd8f09-63e0-4df0-b8fd-228e9067005f)
+
 
 
 - To delete a transaction:
-![Screen Shot 2023-08-19 at 03 11 35](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/3bdec927-36a3-4423-8851-1d00d9210975)
+![Screen Shot 2023-08-19 at 03 11 35](https://github.com/RevoU-FSSE-2/week-9-resyanac/assets/135514670/ab89758f-5085-4514-afa6-09929d6cd760)
+
 
 
 ## Deployment
